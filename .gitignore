@@ -1,2 +1,6 @@
 /build/
 /.metadata/
+DemoApp/.classpath
+DemoApp/WebContent/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar
+*.jar
+DemoApp/.classpath
